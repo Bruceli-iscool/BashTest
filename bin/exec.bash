@@ -1,2 +1,4 @@
 # to run test files
-chmod +x /workspaces/bashtest/test.sh
+cd /workspaces/BashTest/
+chmod +x test.sh
+./test.sh
